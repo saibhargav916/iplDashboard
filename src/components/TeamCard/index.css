@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.team-card-container {
+  background-color: transparent;
+  background-size: cover;
+  padding: 20px;
+  border-radius: 5px;
+  display: flex;
+}
